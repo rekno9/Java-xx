@@ -54,7 +54,7 @@ class DogTestDrive{
         myDogs[2].name = "Epic";
 
         myDogs[0].size = 70;
-        myDogs[1].size = 35;
+        myDogs[1].size = 305;
         myDogs[2].size = 8;
 
         for(int i = 0; i < myDogs.length; i++){
