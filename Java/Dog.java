@@ -57,9 +57,11 @@ class DogTestDrive{
         myDogs[2].size = 8;
 
         for(int i = 0; i < myDogs.length; i++){
-            myDogs[i].bark(2);
+            myDogs[i].bark(1);
         }
 
-        
+        Circle cir = new Circle(4, 8);
+        System.out.println(cir.Area());
+        System.out.println(cir.Circumference());
     }
 }
