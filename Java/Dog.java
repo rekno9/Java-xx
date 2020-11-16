@@ -41,6 +41,7 @@ class DogTestDrive{
 
         Dog fido = new Dog();
         fido.name = "Fido";
+        fido.name = "notFido";
 
         fido.bark(1);
         fido.chaseCat();
