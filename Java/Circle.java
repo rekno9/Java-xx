@@ -1,10 +1,8 @@
 public class Circle extends Geometry{
     private static double radius;
-    private static double diameter;
 
-    public Circle(double radius, double diameter){
+    public Circle(double radius){
         Circle.radius = radius;
-        Circle.diameter = diameter;
     }
 
     public  double Area(){

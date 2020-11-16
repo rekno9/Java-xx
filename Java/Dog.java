@@ -60,7 +60,7 @@ class DogTestDrive{
             myDogs[i].bark(1);
         }
 
-        Circle cir = new Circle(4, 8);
+        Circle cir = new Circle(4.0);
         System.out.println(cir.Area());
         System.out.println(cir.Circumference());
     }
