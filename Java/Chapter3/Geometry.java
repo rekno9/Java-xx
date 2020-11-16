@@ -1,3 +1,5 @@
+package Chapter3;
+
 public class Geometry {
     public double Area(){
         return 0.0f;

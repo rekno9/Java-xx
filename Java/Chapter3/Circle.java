@@ -1,4 +1,6 @@
-public class Circle extends Geometry{
+package Chapter3;
+
+public class Circle extends Geometry {
     private static double radius;
 
     public Circle(double radius){
