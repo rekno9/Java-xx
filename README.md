@@ -1,3 +1,3 @@
 #Java-xx
 
-Main repositori for java courses
+Main repository for java courses
