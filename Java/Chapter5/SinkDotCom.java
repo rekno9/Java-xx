@@ -1,4 +1,4 @@
-package Chapter4;
+package Chapter5;
 
 public class SinkDotCom {
     
