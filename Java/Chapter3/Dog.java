@@ -1,5 +1,8 @@
 package Chapter3;
 
+import java.util.ArrayList;
+import java.util.List;
+
 //
 //
 
@@ -66,5 +69,9 @@ class DogTestDrive{
         Circle cir = new Circle(4.0);
         System.out.println(cir.Area());
         System.out.println(cir.Circumference());
+
+        List<Geometry> objects = new ArrayList<Geometry>();
+        objects.add(new Circle(40.0));
+        
     }
 }
